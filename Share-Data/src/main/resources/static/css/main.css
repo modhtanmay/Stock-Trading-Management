@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body
+    {
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        margin: 0;
+        padding: 0;
+    }
