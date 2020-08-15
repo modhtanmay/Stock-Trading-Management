@@ -1,4 +1,4 @@
-# Stock-Trading-Management
+# StockTrad-Z
 This Project is just a basic model of Stock Trading Management where buying and selling of stocks can be done,orders can be maintained.
 
 # Output Screens
