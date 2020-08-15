@@ -7,3 +7,9 @@ This page is been made using [HTML](https://developer.mozilla.org/en-US/docs/Web
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [BOOTSTRAP](https://getbootstrap.com/) and [THEMELEAF](https://www.thymeleaf.org/).
 
 ![Landing Page](Share-Data/snippets/landingPage.png)
+
+
+## Welcome Page
+This page is static for now but can be used to get news api and showing stock market news live.
+
+![Welcome Page](Share-Data/snippets/welcomePage.png)
