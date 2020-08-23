@@ -1,6 +1,6 @@
 # StockTrad-Z
 StockTrad-Z can do the following activity:
-1. Display list of stocks with their current share price 
+1. Display list of stocks with their current share price.
 2. Buy or sell selected stock in specified quantity. 
 3. Calculate order amount and brokers commission
 
