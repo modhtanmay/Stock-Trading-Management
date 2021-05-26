@@ -9,7 +9,9 @@ public class LoginService {
 	
 	public boolean validateUser(String email,String password)  {
 		boolean valid = false;
-		if(email.equalsIgnoreCase("modhtanmay@gmail.com") && password.equalsIgnoreCase("modh"))
+		
+		// Currently login is hard-coded later on spring security will be added.
+		if(email.equalsIgnoreCase("modh@gmail.com") && password.equalsIgnoreCase("modh"))
 			valid = true;
 		if(email.equalsIgnoreCase("dipak@gmail.com") && password.equalsIgnoreCase("dipak"))
 			valid = true;
